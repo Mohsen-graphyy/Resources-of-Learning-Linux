@@ -1,0 +1,21 @@
+hi, these are some links that help you to install Ubuntu on your machine :
+
+you have 3 ways to install as I know :
+
+  1. install Ubuntu with one boot (use Windows bootstrap) and with virtual machines.
+  2. install ubuntu dual boot to have Windows and Ubuntu together.
+  3. replace your current operating system with Ubuntu.
+
+### install Ubuntu with one boot (use Windows bootstrap) and with virtual machines :
+
+1. text base :  https://thesecmaster.com/install-ubuntu-linux-on-vmware-workstation/
+2. video base : https://www.youtube.com/watch?v=B1tCRwkFmnA
+
+### install ubuntu dual boot to have Windows and Ubuntu together :
+
+1. text base : https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/
+2. video base : https://www.youtube.com/watch?v=GXxTxBPKecQ
+
+### replace your current operating system with Ubuntu:
+
+1. video base : https://www.youtube.com/watch?v=moWdOiqk7AM
